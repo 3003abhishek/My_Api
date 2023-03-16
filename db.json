@@ -24,7 +24,9 @@
       }
     ],
     "users": [
-      
+      {"userName":"Gandhi",
+    "email":"gandhi@gmail.com",
+     "password":"617367adhj"}
     ],
     "profile": {
       "name": "typicode"
