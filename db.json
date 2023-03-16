@@ -1,0 +1,36 @@
+{
+    "books": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+        "name": "ABHISHEK",
+        "author": "Sneha",
+        "genre": "friction",
+        "edition": "2022",
+        "publisher": "Rahul",
+        "cost": "540",
+        "borrow": false,
+        "id": 2
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652__340.png",
+        "name": "ABHISHEK",
+        "author": "Tanya",
+        "genre": "friction",
+        "edition": "2021",
+        "publisher": "Rahul",
+        "cost": "370",
+        "borrow": false,
+        "id": 3
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
